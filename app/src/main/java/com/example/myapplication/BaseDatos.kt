@@ -14,6 +14,13 @@ copylef
 08/10/2025  at 18:13
 */
 
+/*
+Este es un comentario bien bonito
+Atte: Su amigo y vecino, Lounard RW
+Vivan los lobos :D
+Y los zorros :D
+*/
+
 class BaseDatos(
     context: Context?,
     name: String?,
